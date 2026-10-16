@@ -1,3 +1,34 @@
+# VoiceStudio em português: dublar o seu curso com a sua voz
+
+> **Cópia mantida pela [Exos Marketing](https://www.instagram.com/exosmkt/).** O VoiceStudio foi criado por **Palash Deb ([debpalash](https://github.com/debpalash))** e está aqui sob a licença AGPL-3.0, sem alteração no código. Repositório original: [debpalash/VoiceStudio](https://github.com/debpalash/VoiceStudio).
+
+## Instalação em 1 minuto
+
+**Jeito mais fácil (Claude Code, Codex ou Cursor):** abra o agente no computador e cole isto:
+
+```text
+Install the VoiceStudio Electron app on this device and verify it works, following
+https://github.com/debpalash/VoiceStudio/blob/main/docs/install/agent.md
+```
+
+**Ou pelo terminal (Mac/Linux):** `curl -fsSL https://voicestudio.sh/install | sh`
+**No Windows (PowerShell):** `irm https://voicestudio.sh/install | iex`
+
+Funciona em Mac com chip Apple, Windows e Linux. Sem placa de vídeo também roda, só que mais devagar.
+
+## Como dublar o primeiro vídeo do seu curso
+
+1. Abra o VoiceStudio e vá em **Voice cloning**. Grave ou envie uns 30 segundos da sua voz, limpa, sem música.
+2. Vá em **Dubbing**, envie o vídeo (uma aula, um anúncio, a VSL) e escolha o idioma de destino (espanhol, inglês…).
+3. Escolha a sua voz clonada e gere. Ele traduz e dubla com a fala no tempo do vídeo.
+4. Revise a tradução antes de publicar, de preferência com alguém que fale o idioma.
+
+**Cuidados:** use só a sua própria voz ou uma com autorização. O app é AGPL-3.0; os modelos de voz têm licenças próprias, então para uso comercial confira a licença de cada modelo no Model Manager.
+
+Quer levar o seu curso para fora do Brasil? Fala com a gente: [@exosmkt](https://www.instagram.com/exosmkt/).
+
+---
+
 <div align="center">
   <img src="docs/logo.png" alt="VoiceStudio" width="88" />
   <h1>VoiceStudio</h1>
